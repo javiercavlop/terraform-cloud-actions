@@ -27,4 +27,6 @@ permissions:
   contents: read
   pull-requests: write
 ```
-      
+
+### Disclaimer
+This project is based on a tutorial at [developer.hashicorp.com](https://www.developer.hashicorp.com) (and, therefore, includes code from it), available [here](https://developer.hashicorp.com/terraform/tutorials/automation/github-actions).
